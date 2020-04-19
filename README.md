@@ -12,7 +12,7 @@ TASK
 	variabile build MAVEN_MIRROR_URL=https://repo1.maven.org/maven2
 	https://github.com/marcorosati/java-serverhost.git
 -Route jhost.xxxx (path per test /HelloWorldExample/hello)
--Update code app e redeploy
+-Update code app e far partire di nuovo la build
 
 
 
